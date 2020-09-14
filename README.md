@@ -4,7 +4,7 @@
 
 ## I'm a Student
 
-- 🔭 I’m currently pursuing my third year bachelor of Engneering
+- 🔭 I’m currently pursuing my final year bachelor of Engneering
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m trying to do small projects using basic level codes  
 - 🥅 2020 Goals: Try to learn programming languages  
